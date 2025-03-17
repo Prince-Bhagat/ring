@@ -1,4 +1,3 @@
-// https://cydstumpel.nl/
 
 import * as THREE from 'three'
 import { useRef, useState } from 'react'
